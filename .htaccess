@@ -1,7 +1,7 @@
 Options -MultiViews
 RewriteEngine On
 
-RewriteBase /atatusoft/mvc_app_alt/
+RewriteBase /atatusoft/__company_websites/avatars.atatusoft.com/
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
